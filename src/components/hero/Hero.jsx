@@ -57,7 +57,7 @@ const Hero = () => {
           animate="animate"
           className="awards"
         >
-          <motion.h2 style={{width:"200%"}} variants={awardVariants}>Full-Stack Developer | UI/UX Designer</motion.h2>
+          <motion.h2 style={{width:"200%"}} variants={awardVariants}>Full-Stack Developer |     UI/UX Designer</motion.h2>
            
           <br />
           <motion.div variants={awardVariants} className="resume">
