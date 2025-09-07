@@ -1,4 +1,4 @@
-import "./testimonials.css";
+import "./Testimonials.css";
 import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
 
