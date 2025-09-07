@@ -52,14 +52,6 @@ const Test = () => {
       }}
     >
       <motion.div
-        // initial={{ x: 0, y: 0, opacity: 0 }}
-        // animate={{ x: [0, 100], y: [0, -200], opacity: [0, 1] }}
-        // transition={{
-        //   duration: 2,
-        //   // delay: 4,
-        //   ease: "easeInOut",
-        //   repeat: Infinity,
-        // }}
         variants={shapeVariants}
         initial="initialRect"
         animate="animateRect"
