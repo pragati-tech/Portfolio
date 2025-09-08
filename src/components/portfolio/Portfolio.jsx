@@ -29,7 +29,7 @@ const items = [
     img: "/Project4.png",
     title: "Neoteric UI - Product Design",
     desc: "Modern, user-centric UI design work, blending wireframes, prototypes, and responsive designs to enhance usability and aesthetics across devices.",
-    link: "https://pragati-tech.github.io/Academia-veneria/",
+    link: "https://github.com/pragati-tech/Neoteric-UI",
   },
   {
     id: 5,
